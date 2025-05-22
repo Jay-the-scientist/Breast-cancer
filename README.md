@@ -1,4 +1,4 @@
-# 🧬 Breast Cancer Data Exploration and Classification
+# Breast Cancer Data Exploration and Classification
 
 ## Objective
 Explore and analyze the breast cancer dataset using statistical techniques and machine learning models to predict the presence of malignant or benign tumors.
